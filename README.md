@@ -1,4 +1,4 @@
-## Hi there nice to meet you 👋
+## Hi there, nice to meet you 👋
 
 Hi, my name is Ryad Benrais. I’m an IT development technician undergoing a transformation – kind of like a constantly updating code (but with fewer bugs, I promise! 😉).
 
